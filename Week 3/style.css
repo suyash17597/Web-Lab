@@ -1,0 +1,47 @@
+body {
+                 background: pexels-photo-235994.jpeg;
+                 color: black
+               }
+div.special{
+
+  margin: 5px 0px 2px 25px;
+}
+a:link { color: black }
+a:visited { color: black }
+p{
+  text-align: left;
+}
+p.special {
+                font-family: "Times New Roman";
+                font-style: italic;
+                text-decoration: underline;
+                font: 12pt/14pt sans-serif;
+                margin: 5px 0px 2px 25px;
+                border: medium dashed orange;
+                text-align: left;
+                background: white;
+            }
+header{
+      position: fixed;
+      left: 0;
+      top: 0;
+      width: 100%;}
+      #head{
+      background-color: blue;
+      color: white;
+      text-align: center;
+            }
+  footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  align-content: center;}
+    #foot{
+    background-color: red;
+    color: white;
+    text-align: center;
+  }
+li{
+    text-align: left;
+}
