@@ -24,7 +24,7 @@ Publish your views here. </p>
 <div align="center">
   <h1>Welcome </h1>
 			<h2><%out.print(request.getParameter("name"));%></h2>
-	<p style="font-size:200%"> You are now a successfully registered member of BlogHere</p>
+	<a style="font-size:200%" align="center"> You are now a successfully registered and an important member of BlogHere</a>
 
 <footer id="foot">
   <p>Opinions aren't facts. Stop worrying about what people think about you.</p>
